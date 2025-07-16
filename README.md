@@ -6,3 +6,6 @@
 
 ## This is a snippet to rotate the main view for a TVOS project - landscape to portrait and back
 
+**This Snippet** is written in `Swift ~> 5.0`.<br>
+iOS `Target: ~> 15.0`<br>
+Initially Built in `Xcode 13` - Currently will build in `Xcode ~>16.0`<br> 
