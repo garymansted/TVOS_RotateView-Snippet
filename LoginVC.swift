@@ -10,7 +10,7 @@
  This is a sample ViewController provided for demonstration purposes.
  For simplicity, no login logic has been implemented.
  Its purpose is to demonstrate the main rotation setting,
- which is initialized at the start of the program. - in this instance.
+ which is initialized at the start of the program - in this instance.
 */
 
 import UIKit
